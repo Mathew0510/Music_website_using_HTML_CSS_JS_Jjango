@@ -1,1 +1,3 @@
-# Music_website_using_HTML_CSS_JS_Jjango
+# MusicBeats
+
+This is a Music Website made with Python Django Framework.
